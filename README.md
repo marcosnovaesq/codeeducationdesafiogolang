@@ -1,0 +1,1 @@
+to run this image, simply execute ' docker run marcosnovaesq/desafiogolang '
